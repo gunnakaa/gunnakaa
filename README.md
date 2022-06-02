@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gunnakaa
 - 👀 I’m interested in GIS-tools and usage of drone for dronephotogrammetry
-- 🌱 I’m currently learning to use postgre and opendronemap
+- 🌱 I’m currently learning opendronemap
 - 💞️ I’m looking to collaborate on my eksperiance with opendronemap
 - 📫 How to reach me; gunnar.kaasa84@gmail.com
 
